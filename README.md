@@ -28,18 +28,26 @@ pip install yfinance
 ```
 
 ## Timeline
+    - Day 1 : Proposal and Research
+    - Day 2 : Building  Fibonacci Retracement in Python
+    - Day 3 : Building and Finishing Retracement Code
+    - Day 4 : Markdown and Documentation
+    - Day 5 : Final touches to Markdown and Presentation Prep
+
 
 ## Project Team
+* Tim Clemens, Max Heatter, Brandon Latherow, Gregory Neubel Jr.
 
 ## Fibonacci Background
-* insert image
+![](Images/[insertpng])
 * Support and Resistance!!!
 
 ## Historical Markets??
 * insert image
-* Percentage drops in properly correlated fibonaccci retracement
+* Percentage drops in properly correlated fibonacci retracement
+
 ## Data Analysis
-* insert image
+![](Images/DJI_fib.png)
 
 ## Investing INFO??
 
