@@ -62,8 +62,84 @@ pip install yfinance
 * Lastly we had difficulty using our code to easily and accurately find trends using smaller sample sizes/data frames.
 ![](Images/Fib_Future.png)
 
-# Possible Investment Plans
-* 
+# Investing
+## Investment Strategies
+ 
+### Single Option Strategies
+- Buying Calls 
+- Writing Calls
+- Buying Puts
+- Writing Puts
+ 
+### Buying Calls  (Owner/Long/Bullish)
+- Investor speculate the underline price of stock will rise
+- Can profit on upward price movement by only paying the premium 
+- Provides investor w/ greater leverage (higher potential percentage return)
+- Deferring to purchase in the future, great way to lock in XP/Sales price of stock
+- Investors also use calls to protect a short stock position, a popular way to hedge.
+  - Note: Short/position holders lose when the stock price rises, facing potential unlimited loss. 
+ 
+### Writing Calls (Seller/Short/Bearish)
+- Investor believes stock’s price will decline or stay the same
+- Does not own stock, protection does not exist. (Naked, Uncovered)
+- Has obligation to sell
+- Unlimited potential risk of loss
+	- Note: Call writers profit if the stock’s price falls below or stays at the strike price.
+		Most often a strategy for an uncovered writer to earn the premium.
+ 
+### Buying Puts (Owner/Long/Bearish)
+- Investor can profit from a decrease in the stock price, while investing in small amounts
+- If stock falls below the strike price, while in the money, may result in a profit
+- Locks in stock sales price until the option expires.
+- Protects appreciation potential until expiration date
+ 
+### Writing Puts (Seller/Short/Bullish)
+- Investors believe the stock is going to rise
+- Can profit/earn premium if stock price rises above strike price 
+- Investors hope the put option expires to keep premium  
+- Huge Risk!
+ 
+ 
+ 
+## Order Type Strategies
+ 
+- Market Orders
+- Limit Order
+- Stop Order (Stop Loss)
+ 
+### Market Orders 
+- Are sent immediately to the trading floor for execution without restrictions or limits. Executed immediately at the current market price and has priority over all orders. 
+- Buy order: executed at the lowest offering price available 
+- Sell order: executed at the highest bid price available 
+ 
+### Limit Orders
+- Investors limits the acceptable purchase or selling price
+- Executed only at specified price or better.
+- Buy Limit Orders: Investors believe stock is overpriced and would like to buy low with the dip in the market. Placed below the current market.
+- Sell Limit Orders: Investors who own the stock believe the stock they own is currently undervalued, would place sell limit orders to sell the stock if it should rise to desired level.
+ 
+### Stop Orders
+- Designed to protect profit or prevent loss if stock moves in wrong direction
+- Sell Stop: Entered below current market
+  - Protects profit or loss in a long stock position.
+  - Technical analysis believes that if a stock breaks through the support, it will fall like a rock.
+- Buy Stop: Entered above current market
+  - Protects a profit or loss in a short stock position
+  - Triggered when the market price touches or goes through the buy stop price
+  - Used by technical analysis who track support and resistance levels for stock.
+
+# Findings and Possible Courses of Action
+## S&P 500
+- Through analysis of Fibonacci Retracement we are predicting a support line and bottom for the S&P 500. 
+- Price $3200
+- As early as Late Feb, 2023
+## Nasdaq 
+- Using the Fibonacci Retracement the Nasdaq is currently at a level of support. It has been at this support level for roughly a month trying to rebound positively, but has just been hovering.
+- Price $10462.71
+- Now could be the perfect time to enter.
+## Dow Jones 
+- 23rd of September the DJI reached its support level and proceeded to hover until the middle of October. From October 14th to Present Day (November 7th), the DJI has risen from slightly beneath the support level at $29634.33 to $32830.89. From this retracement and analysis it is hard to make an accurate prediction with the path of the DJI, the time to invest, at least for short term, looks to have passed.
+
 # Future Expanse 
 
 ### EXPANSION OF PYTHON LIBRARIES
